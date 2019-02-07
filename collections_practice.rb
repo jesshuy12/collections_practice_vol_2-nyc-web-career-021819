@@ -63,7 +63,7 @@ end
 def organize_schools(schools)
   organized = {}
     schools.each do |key, value|
-      
+      location = value[:]
   
   
   
