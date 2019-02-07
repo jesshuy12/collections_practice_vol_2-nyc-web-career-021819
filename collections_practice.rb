@@ -70,6 +70,7 @@ def organize_schools(schools)
     end
     return organized
   end
+end
     
   
   
