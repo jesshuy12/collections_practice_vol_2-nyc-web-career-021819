@@ -66,7 +66,9 @@ def organize_schools(schools)
       location = value[:location]
       if organized[:location]
         organized[:location] << key
-  
+      else
+        organized[:location] = []
+        
   
   
   
