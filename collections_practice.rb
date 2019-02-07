@@ -67,8 +67,8 @@ def organize_schools(schools)
       if organized[:location]
         organized[:location] << key
       end
-    return organized
-  end
+    end
+  return organized
 end
     
   
