@@ -68,6 +68,8 @@ def organize_schools(schools)
         organized[:location] << key
       end
     end
+    return organized
+  end
     
   
   
